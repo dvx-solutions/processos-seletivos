@@ -4,6 +4,8 @@
 
 _Submissões feitas após o prazo estipulado não serão avaliadas._
 
+_Alterações feitas no projeto após o término do desafio serão desconsideradas._
+
 [Fórmulário para submissão do projeto](https://forms.office.com/r/2QXUebLG1i)
 
 O desafio consiste em contruir uma aplicação web com as tecnologias solicitadas abaixo e dentro do padrão de layout fornecido no Figma.
